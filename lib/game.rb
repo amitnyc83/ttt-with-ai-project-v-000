@@ -114,12 +114,6 @@ def start
 
 
 end
-end
-end
-end
-end
-end
-
 
 
 
