@@ -110,7 +110,7 @@ def start
   input = Game.new(Players::Human.new("X"), PLayers::Human.new("O"), board = Board.new) if input == 2
   input = Game.new(Players::Computer.new("X"), Players::Computer.new("O"), board = Board.new) if input == 0
 
-  game.play
+
 
 
 end
